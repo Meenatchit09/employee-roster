@@ -1,0 +1,85 @@
+
+.app-container {
+margin: 15px; 
+}
+.header {
+  display: flex;
+  flex-direction: row;
+}
+
+.sub-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+table {
+  width: 100%;
+}
+
+table, th {
+  border: 2px solid black;
+}
+
+.img {
+  height: 50px;
+  width: 50px;
+}
+
+.profile-pic {
+    height: 80px;
+    width: 60px;
+}
+
+.search-box {
+  float: right;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.align-right {
+  float: right;
+}
+
+.name-alignment {
+  border-bottom: 2px solid gray;
+  margin-top: 50px;
+}
+
+.active-button {
+  background-color: black;
+  color: white;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7); 
+  z-index: 1000;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+dialog {
+  width: 90%
+}
+
+@media screen and (min-width: 480px) {
+  dialog {
+    width: 50%
+  }
+}
+

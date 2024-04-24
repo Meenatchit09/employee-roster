@@ -1,0 +1,153 @@
+{
+    "companyInfo": {
+        "companyName": "Greenfelder Brothers",
+        "companyMotto": "one-to-one deliver niches",
+        "companyEst": "2017-06-02T10:31:59.679Z"
+    },
+    "employees": [
+        {
+            "id": "b569201a-d1fc-4d0d-88e7-9c46246f5a95",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/panghal0/128.jpg",
+            "firstName": "Sam",
+            "lastName": "Hessel",
+            "jobTitle": "Central Paradigm Technician",
+            "contactNo": "0423 765 538",
+            "address": "Bartell Island North Amyhaven, Queensland",
+            "age": 37,
+            "bio": "Officia sit consectetur aut placeat ex a aut cumque eligendi. Alias est aut ratione ab veritatis. Molestiae quae enim atque amet. Maiores quia est est.",
+            "dateJoined": "2022-03-08T09:21:49.809Z"
+        },
+        {
+            "id": "85942956-7f10-48ef-aa43-64e264677ed3",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/id835559/128.jpg",
+            "firstName": "Bailey",
+            "lastName": "Lang",
+            "jobTitle": "Corporate Optimization Liaison",
+            "contactNo": "0455 638 968",
+            "address": "Turner Station St New Ambershire, Queensland",
+            "age": 51,
+            "bio": "Velit consequatur adipisci qui sit pariatur aut dicta et aliquam. Magnam voluptates alias neque. Vel sed cupiditate quis voluptas.",
+            "dateJoined": "2023-06-21T07:54:07.004Z"
+        },
+        {
+            "id": "4e3ce972-6c95-4107-bca4-939346da16e5",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lingeswaran/128.jpg",
+            "firstName": "Elizabeth",
+            "lastName": "Gutmann",
+            "jobTitle": "Customer Directives Facilitator",
+            "contactNo": "0470 549 719",
+            "address": "O'neill Trail Port Alextown, Queensland",
+            "age": 46,
+            "bio": "Enim totam non voluptatem. Qui qui et magnam voluptate vel laboriosam. Quia et iste nihil iste repellendus velit.",
+            "dateJoined": "2022-10-30T19:55:48.231Z"
+        },
+        {
+            "id": "37249e75-52cc-4819-9340-ac0320d40451",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/prinzadi/128.jpg",
+            "firstName": "Jett",
+            "lastName": "Turcotte",
+            "jobTitle": "Corporate Creative Architect",
+            "contactNo": "0487 176 259",
+            "address": "Christiansen Island East Samantha, Tasmania",
+            "age": 23,
+            "bio": "Qui maxime cum asperiores voluptate numquam sed. Provident corporis quas quis eum aut aspernatur nihil. Deleniti reprehenderit dolor quidem quia sint. Natus soluta totam.",
+            "dateJoined": "2024-03-28T00:55:37.175Z"
+        },
+        {
+            "id": "1b944fe8-dd5a-4ef0-a06f-d28a109a9c2f",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/Talbi_ConSept/128.jpg",
+            "firstName": "Kai",
+            "lastName": "Mclaughlin",
+            "jobTitle": "Forward Metrics Producer",
+            "contactNo": "0488 680 257",
+            "address": "Welch Summit Daviston, Northern Territory",
+            "age": 23,
+            "bio": "Reprehenderit fugit provident est eum deserunt ex. Non et optio est molestiae qui. Harum expedita tempore officia eos accusantium voluptates voluptas non facilis. Expedita hic ducimus nisi eveniet deserunt pariatur eum architecto.",
+            "dateJoined": "2019-11-06T11:50:10.032Z"
+        },
+        {
+            "id": "7edfca5b-f354-4cde-b414-dc39afb2ccd5",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/megdraws/128.jpg",
+            "firstName": "Leo",
+            "lastName": "Cole",
+            "jobTitle": "National Functionality Specialist",
+            "contactNo": "0434 109 919",
+            "address": "Scott Run Mclaughlinmouth, Tasmania",
+            "age": 59,
+            "bio": "Velit voluptatem earum omnis qui doloremque qui perspiciatis. Et alias quia iure labore blanditiis ab facilis. Similique distinctio et dolor et est temporibus quas repellat sequi. Quo ea tenetur corrupti aut consequatur accusantium occaecati eaque molestiae. Ut qui cumque voluptas. Dolorum dolores culpa totam repellendus sunt facere.",
+            "dateJoined": "2015-05-26T21:08:59.807Z"
+        },
+        {
+            "id": "f55900b5-1a29-4c16-835f-ac0e492001dc",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/iamjdeleon/128.jpg",
+            "firstName": "Jake",
+            "lastName": "Quigley",
+            "jobTitle": "Product Assurance Liaison",
+            "contactNo": "0495 581 713",
+            "address": "Towne Square West Tahlia, Tasmania",
+            "age": 18,
+            "bio": "Laboriosam magni aliquam quasi neque. Explicabo autem tenetur ut quo. Eum in praesentium. Numquam fugit reiciendis tempora nobis velit. Ut aspernatur consequuntur quia eum necessitatibus sint sunt.",
+            "dateJoined": "2022-03-04T16:53:34.611Z"
+        },
+        {
+            "id": "71639fa0-a543-4602-a9bc-bd27f7a7ef63",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dimaposnyy/128.jpg",
+            "firstName": "Daniel",
+            "lastName": "Grimes",
+            "jobTitle": "Dynamic Applications Executive",
+            "contactNo": "0497 366 106",
+            "address": "Ashton Court Armstrongmouth, Tasmania",
+            "age": 51,
+            "bio": "Fugit nobis numquam quaerat quos qui officiis. Illum et explicabo porro similique recusandae. Illo sint asperiores ipsam aut ea ut expedita atque.",
+            "dateJoined": "2023-01-26T13:22:33.376Z"
+        },
+        {
+            "id": "336f9ff4-b0ee-44cb-a515-140fe9322312",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lu4sh1i/128.jpg",
+            "firstName": "Toby",
+            "lastName": "Little",
+            "jobTitle": "Lead Applications Coordinator",
+            "contactNo": "0488 822 778",
+            "address": "Schultz Island Abbyton, Australian Capital Territory",
+            "age": 48,
+            "bio": "Laboriosam sapiente aperiam dolorum aliquid rerum enim autem iste. Deserunt eaque eveniet nam molestiae ut occaecati quo. Quis numquam est labore. Et dolore adipisci consectetur mollitia.",
+            "dateJoined": "2020-09-30T20:33:20.134Z"
+        },
+        {
+            "id": "e91bdc0a-809f-4650-8583-38d97d94f008",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ajaxy_ru/128.jpg",
+            "firstName": "Samantha",
+            "lastName": "Olson",
+            "jobTitle": "Human Usability Assistant",
+            "contactNo": "0465 806 732",
+            "address": "Howell Crest New Sofia, New South Wales",
+            "age": 40,
+            "bio": "Nulla id labore dolore aut ratione voluptas qui. Excepturi a mollitia. Ad non itaque provident aspernatur. Dignissimos aut dolores voluptas. Et odit perspiciatis ex. Eos est at rerum velit iure et.",
+            "dateJoined": "2017-12-02T05:48:22.119Z"
+        },
+        {
+            "id": "c076b57d-4d0e-433c-a013-1a6c43919dd9",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/coderdiaz/128.jpg",
+            "firstName": "Mikayla",
+            "lastName": "Goldner",
+            "jobTitle": "Global Metrics Specialist",
+            "contactNo": "0413 714 672",
+            "address": "Sam Meadow West Victoriastad, Queensland",
+            "age": 51,
+            "bio": "Accusantium labore at est iusto quidem fuga sit quo non. Accusamus quod sint magni sed. Molestiae et cum qui sit. Qui nulla at commodi recusandae dolor.",
+            "dateJoined": "2024-03-03T00:22:52.486Z"
+        },
+        {
+            "id": "6f89ddea-d4f7-4f79-86c5-a57bbf3a77b3",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/iamkarna/128.jpg",
+            "firstName": "Gabriel",
+            "lastName": "Klein",
+            "jobTitle": "Global Tactics Associate",
+            "contactNo": "0451 577 671",
+            "address": "Mills Boulevard East Aiden, Tasmania",
+            "age": 49,
+            "bio": "Facere inventore quidem aut accusantium itaque dolores. Qui iure cumque a. Est quia ut tempora laudantium quisquam enim dolore quia. Incidunt eos animi ea.",
+            "dateJoined": "2021-04-07T16:08:03.690Z"
+        }
+    ]
+}
