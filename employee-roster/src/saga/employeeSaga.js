@@ -1,11 +1,11 @@
 import { call, put, takeEvery } from 'redux-saga/effects';
-import SampleData from '../sample-data.json'
+import sampleData from '../sample-data.json'
 import { FETCH_EMP_DETAILS, FETCH_EMP_DETAILS_SUCCESS, FETCH_EMP_DETAILS_FAILED, SEARCH_EMP_DETAIL, SEARCH_EMP_DETAIL_SUCCESS, SEARCH_EMP_DETAIL_FAILED } from '../constants';
 
 // Sample API integration in the response i am going to send our employee details
 
 
-const apiUrl = `https://jsonplaceholder.typicode.com/users`;
+const apiUrl = '../sample-data.json';
 function getApi() {
   return fetch(apiUrl, {
       method: 'GET',
@@ -13,7 +13,7 @@ function getApi() {
           'Content-Type': 'application/json',
 
       }
-  }).then(() => SampleData)
+  }).then(() => sampleData)
     .catch((error) => {throw error})
 }
 
