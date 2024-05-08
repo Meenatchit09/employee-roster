@@ -53,12 +53,13 @@ function SummaryView() {
   const PageHeader = () => {
     const companyInfo = useSelector(state => state.empReducer.companyInfo);
     const { companyName, companyMotto, companyEst } = companyInfo
+    const companyEstDate = new Date(companyEst).toLocaleDateString()
     return (
       <>
         <h1>{companyName}</h1>
         <div className='sub-header'>
           <h3>{companyMotto}</h3>
-          <h3>Since {companyEst?.split("T")[0]?.split("-")?.reverse().join('-')}</h3>
+          <h3>Since {companyEstDate}</h3>
         </div>
         <hr />
       </>
